@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f29ee92-14f4-42f5-9665-9e30f711da7c" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/kosullu_eleman_islemleri.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/birlestirme.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,28 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/GitHub/pandas&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.kosullu_eleman_islemleri">
+  <component name="RunManager" selected="Python.birlestirme">
+    <configuration name="birlestirme" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pandas" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/birlestirme.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="dataframe_eleman_islemleri" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pandas" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,6 +146,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.birlestirme" />
         <item itemvalue="Python.kosullu_eleman_islemleri" />
         <item itemvalue="Python.gozlem_ve_degisken_secimi" />
         <item itemvalue="Python.opensea-selenium" />
@@ -162,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657759087720</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1657759754099</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657759754099</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
