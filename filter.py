@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 df = pd.DataFrame({"gruplar": ["A", "B", "C", "A", "B", "C"],
                    "degisken1": [10, 23, 33, 22, 11, 99],
