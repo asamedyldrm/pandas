@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f29ee92-14f4-42f5-9665-9e30f711da7c" name="Changes" comment="dis_kaynakli_veri_okuma.py">
-      <change afterPath="$PROJECT_DIR$/problem_cozme_ve_dokuman_okuma_kulturu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="6f29ee92-14f4-42f5-9665-9e30f711da7c" name="Changes" comment="README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -281,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657845057870</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="README.md">
+      <created>1657845447335</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1657845447335</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,6 +333,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="reading_data" />
     <MESSAGE value="dis_kaynakli_veri_okuma.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="dis_kaynakli_veri_okuma.py" />
+    <MESSAGE value="README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
   </component>
 </project>
