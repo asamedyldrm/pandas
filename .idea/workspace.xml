@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f29ee92-14f4-42f5-9665-9e30f711da7c" name="Changes" comment="README.md" />
+    <list default="true" id="6f29ee92-14f4-42f5-9665-9e30f711da7c" name="Changes" comment="pandas_cheat_sheet.pdf">
+      <change beforePath="$PROJECT_DIR$/problem_cozme_ve_dokuman_okuma_kulturu" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -284,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657845447335</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="pandas_cheat_sheet.pdf">
+      <created>1657845821928</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1657845821928</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,6 +343,7 @@
     <MESSAGE value="reading_data" />
     <MESSAGE value="dis_kaynakli_veri_okuma.py" />
     <MESSAGE value="README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
+    <MESSAGE value="pandas_cheat_sheet.pdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="pandas_cheat_sheet.pdf" />
   </component>
 </project>
